@@ -1,0 +1,39 @@
+[<<< cодержание](../readme.md)
+
+[< Об этом проекте](./about.md)
+
+---
+
+## О системе Git
+__Git__ — мощная распределенная система контроля версий. На страницах этого проекта описаны основные команды, применяемые при ее использовании.
+
+---
+
+Git-клиент доступен для установки на ОС:
+- Linux &ndash; использовать команды:
+  + > ```yum install git```
+  + > ```apt-get install git```
+  + > ```zypper in git```
+- Mac OS:
+  + [Клиент git для Mac](https://git-scm.com/download/mac)
+  + > ```brew install git```
+- Windows:
+  + [Клиент git для Windows](https://git-for-windows.github.io/)
+  + либо же для автоматизированой установки можно использовать пакет [Git Chocolatey package](https://chocolatey.org/packages/git)
+- Android: <!-- Николаю новый велик дали - Коля жмёт на все педали. -->
+  + можно воспользоваться [эмулятором терминала Termux](https://play.google.com/store/apps/details?id=com.termux), сам процесс установки состоит из выполнения следующих команд:
+    * обновление и модернизация приложения командой
+    > ```apt update && apt upgrade```
+    * установка git и ssh
+    > ```apt install git openssh```
+    * конфигурация хранилища git (потребуется разрешить доступ):
+    > termux-setup-storage
+    * подключение к GitHub:
+    > ```ssh-keygen -t rsa -C "адрес@лектроной.почты"```
+    * аутентификация
+    > ```ssh -T адрес@лектроной.почты```
+
+---
+
+[Дальше к теме "Предварительная подготовка к работе с Git" >](./config_git.md)
+
