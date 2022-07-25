@@ -1,4 +1,4 @@
-[<<< cодержание](../readme.md)
+[<< cодержание](../readme.md)
 
 [< История коммитов](./log.md)
 
@@ -14,7 +14,7 @@
 
 Кроме того, конечно же можно ознакомиться с предоставленной разработчиком документацией и из GUI. Например, в случае актуальной на момент создания данного руководства версии Git в 64-разрядной версии Windows найти документацию можно в директории
 
-<a href="file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git.html" target="_blank">C:\Program Files\Git\mingw64\share\doc\git-doc\git.html</a>
+<a href="file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git.html" target="_blank">C:\Program Files\Git\mingw64\share\doc\git-doc\git.html</a> <!-- Не, эта ссылка не откроется. Б-безопасность. -->
 
 ---
 

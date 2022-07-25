@@ -1,4 +1,4 @@
-[<<< cодержание](../readme.md)
+[<< cодержание](../readme.md)
 
 [< О системе Git](./about_git.md)
 
