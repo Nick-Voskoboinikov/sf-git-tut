@@ -24,4 +24,4 @@ __Git__ — мощная распределенная система контр�
 
 ---
 
-<a name="ref1">Логтип GIT за авторством  Jason Long - http://git-scm.com/downloads/logos, лицензия: [CC BY 3.0](https://creativecommons■org/licenses/by/3.0/)</a>
+<a name="ref1">Логтип GIT за авторством  Jason Long - http://git-scm.com/downloads/logos, лицензия: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)</a>
