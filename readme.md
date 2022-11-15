@@ -1,4 +1,4 @@
-# Минималистичнейшая $${\color{lightblue}инструкция}$$ по работе с GIT
+# Минималистичнейшая <span style="color: lightblue" >инструкция</span> по работе с GIT
 
 ЛИЦЕНЗИЯ: [MIT](./license.md)
 
